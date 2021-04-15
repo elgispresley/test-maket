@@ -1,0 +1,24 @@
+1) Дороу)                                                                                              Элгис
+2) 1) h1                        11) title                    21) br
+   2) h2                        12) script                   22) data
+   3) h3                        13) body                     23) form
+   4) h4                        14) head                     24) hr
+   5) h5                        15) p                        25) i
+   6) h6                        16) a                        26) link
+   7) div                       17) img                      27) table
+   8) span                      18) button                   28) area
+   9) style                     19) input                    29) footer 
+   10) html                     20) b                        30) audio
+3) Это то, с помощью чего, мы указываем на нужный элемент в веб страницы, сначала идет указание селектора, а за ним, уже в фигурных скобках, потом уже стили
+4) display flex, flex, aling-items, flex-direction, justify-content, align-self, flex-grow, flex-wrap
+5) Свойство position используется, чтобы задать положение элемента на странице
+   relative, absolute, fixed, sticky
+6) px, em, %, vw, vh
+7) flex-direction
+8) через прямую ссылку в интернете, либо, если она скачена, то можно указать к ней путь   
+9) он убирает их 100% ширину, тем самым, позволяя им встать в ряд
+10) margin "двигает коробку", а padding "Двигает то, что внутри коробки" 
+11) относительно окна браузера или других объектов на веб-странице.
+12) точно не "6" 
+13) grid-template-columns 
+14) color, font-famaly, font-size, text-aling 

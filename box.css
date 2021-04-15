@@ -1,0 +1,34 @@
+.box {
+    border-radius: 16px;
+    width: 888px;
+    height: 224px;
+    display: flex;
+    padding: 40px;
+}
+.icon {
+    width: 128px;
+    height: 144px;
+}
+.content {
+    width: 433px;   
+    margin-left:  32px;
+}
+.content > h1 {
+    font-size: 22px;
+    font-family: DM Serif Display;
+}
+.content > p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #A5ADBB;
+    font-size: 16px;
+    font-family:  Open Sans;
+}
+.content > h3 {
+    color: #6E798C;
+    font-size: 16px;
+    font-family: Open Sans;
+}
+.statistics {
+    padding-left: 82px;
+}
